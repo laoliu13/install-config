@@ -10,5 +10,5 @@
     alias jdk8="export JAVA_HOME=$JDK8_HOME"
     alias jdk17="export JAVA_HOME=$JDK17_HOME"
     ```
-  5. 执行命令 source ~/.bash_profile使配置生效
-  6. 输入jdk8或者jdk17切换Java版本
+  4. 执行命令 source ~/.bash_profile使配置生效
+  5. 输入jdk8或者jdk17切换Java版本
